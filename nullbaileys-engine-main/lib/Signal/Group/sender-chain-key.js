@@ -1,5 +1,5 @@
 //=======================================================//
-import { calculateMAC } from "@skycodee/libsignal/src/crypto.js";
+import { calculateMAC } from "@rulfornull/libsignal/src/crypto.js";
 import { SenderMessageKey } from "./sender-message-key.js";
 //=======================================================//
 export class SenderChainKey {
