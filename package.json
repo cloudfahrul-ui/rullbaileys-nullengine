@@ -39,7 +39,7 @@
     "@whiskeysockets/eslint-config": "github:whiskeysockets/eslint-config",
     "@cacheable/node-cache": "*",
     "gradient-string": "2.0.2",
-    "@rulfornull/libsignal": "github:cloudfahrul-ui/nullengine-libsignal",
+    "@rulfornull/libsignal": "*",
     "moment-timezone": "*",
     "music-metadata": "*",
     "cache-manager": "*",
