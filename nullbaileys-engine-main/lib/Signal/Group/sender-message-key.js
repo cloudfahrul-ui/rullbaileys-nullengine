@@ -1,5 +1,5 @@
 //=======================================================//
-import { deriveSecrets } from "@skycodee/libsignal/src/crypto.js";
+import { deriveSecrets } from "@rulfornull/libsignal/src/crypto.js";
 //=======================================================//
 export class SenderMessageKey {
   constructor(iteration, seed) {
